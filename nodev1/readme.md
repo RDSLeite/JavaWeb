@@ -1,0 +1,1 @@
+como comecar o projeto em node:node index.js
